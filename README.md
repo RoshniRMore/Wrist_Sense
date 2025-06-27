@@ -1,1 +1,6 @@
-# Wrist_Sense
+# Wrist_Sense : Predictive Health from Wearables
+
+WristSense aims to revolutionize proactive health monitoring by offering a unified, intelligent system that aggregates, analyzes, and shares data from wearable devices. In today’s fast-paced world, early detection and intervention for chronic conditions and elderly care remain challenging due to fragmented data, limited accessibility, and delayed alerts.
+The system will begin with patient management by securely storing health profiles and continuously tracking key metrics such as heart rate, blood oxygen levels, sleep duration, and stress indicators. Users, guardians, and healthcare providers will be able to view historical, and real-time insights via a secure, centralized platform.
+WristSense will play a critical role in clinical coordination by instantly identifying anomalies and generating real-time alerts. These alerts will be routed to authorized guardians and medical professionals to enable timely intervention. Additionally, the system will log all activity and data exchanges with robust encryption and audit trails, ensuring compliance with data privacy regulations.
+By combining health tracking, secure data management, and intelligent alerting, WristSense aims to bridge the communication gap between patients, caregivers, and healthcare professionals—enabling proactive, informed, and accountable care when it matters most.
